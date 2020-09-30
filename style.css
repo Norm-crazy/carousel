@@ -1,0 +1,25 @@
+body {
+   background: #212422;
+   color: white;
+ }
+
+.local-tabs {
+  text-align: center;
+}
+
+ .local-tabs li{
+   width: auto;
+   display: inline-block;
+ }
+
+ .local-tabs a, input{
+   color: #f6ebd5;
+   text-decoration: none;
+   text-align: center;
+   margin: 0 21px;
+ }
+
+.az-local-1, .az-local-2, .tx-local-1, .tx-local-2 {
+  border: 1px solid red;
+  padding: 5px;
+}
